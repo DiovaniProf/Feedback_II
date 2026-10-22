@@ -1,0 +1,24 @@
+PAINEL INTERATIVO — A PONTE DA FORMAÇÃO CONTINUADA
+PACOTE GITHUB — V12
+
+Coloque estes quatro arquivos NA RAIZ do repositório GitHub:
+  index.html
+  style.css
+  script.js
+  TELA.jpg  <-- esta imagem será fornecida por você, não está incluída no ZIP.
+
+ATENÇÃO: o nome do arquivo da imagem precisa ser exatamente TELA.jpg (letras maiúsculas em TELA, extensão minúscula), conforme solicitado. O navegador diferencia letras maiúsculas e minúsculas no GitHub Pages.
+
+Para publicar: em Settings > Pages, escolha Deploy from a branch, branch main e pasta /(root). Após publicar, abra a URL informada pelo GitHub Pages.
+
+Funcionalidades preservadas:
+* Navegação pela imagem em três regiões e por abas;
+* Modos Ver todos e Um por vez, setas do teclado, tela cheia;
+* Layout adaptativo com tamanho de texto responsivo;
+* Marcadores numerados e comentários particulares por frase;
+* Salvamento local no navegador e exportação DOCX estilizada;
+* Ferramentas de roteiro, comparação, síntese e limpeza de registros.
+
+Os comentários armazenados em localStorage ficam no navegador/domínio em que foram criados; comentários salvos previamente em arquivos HTML abertos localmente não são transferidos automaticamente para o endereço do GitHub Pages.
+
+O painel não exige frameworks, bibliotecas externas nem servidor para o funcionamento das interações. O GitHub Pages pode hospedar os arquivos estáticos.
