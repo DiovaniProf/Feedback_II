@@ -1,9 +1,8 @@
-Versão 13.0 — A Ponte da Formação Continuada
+PAINEL DA FORMAÇÃO CONTINUADA — V15.0
 
-Coloque index.html, style.css, script.js e TELA.jpg na raiz do repositório GitHub.
-A imagem deve ter exatamente o nome TELA.jpg.
-Abra index.html ou publique no GitHub Pages.
+Coloque index.html, style.css, script.js e TELA.jpg na raiz do GitHub.
 
-Alterações V13: tela de comparação em largura total sem comentários laterais; síntese com três campos editáveis e persistentes, exportados no DOCX.
+Mudanças: tela Como explorar a paisagem em três faixas fixas; exclusão apenas ali da coluna Comentários do Formador; texto atualizado do terceiro movimento.
+O relatório DOCX inclui agora o roteiro atualizado. As demais áreas e o registro de comentários continuam ativos.
 
-V14: Aba de integração renomeada para 'Duas experiências, O mesmo propósito', subtítulo revisto, correção das frases, e exportação DOCX com seção 'INTEGRAÇÃO DA JORNADA II e III.' na faixa azul-marinho. Mantido TELA.jpg na raiz.
+O arquivo TELA.jpg deve ser adicionado separadamente.
